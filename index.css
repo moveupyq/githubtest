@@ -83,7 +83,12 @@ table {
 	border-collapse: collapse;
 	border: 1px solid #c1c1c1
 }
-
+.aa{
+position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+}
 .layer {
 	position: absolute;
 	left: 0;
